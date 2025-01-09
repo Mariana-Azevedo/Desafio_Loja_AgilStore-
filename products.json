@@ -1,0 +1,16 @@
+[
+  {
+    "id": "03a0bf66-dd2a-4285-a12f-de12a98a893c",
+    "nome": "Como eu era antes de voce",
+    "categoria": "Romance",
+    "quantidade": 50,
+    "preco": 45
+  },
+  {
+    "id": "a1b81328-5119-456d-807a-543dfc646891",
+    "nome": "Harry Porter",
+    "categoria": "Aventura",
+    "quantidade": 2,
+    "preco": 3
+  }
+]
